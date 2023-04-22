@@ -1,0 +1,17 @@
+.container  {
+    margin-top: 150px;
+}
+
+/* #rightCard  {
+    background-color: black;
+    border-radius: 2px;
+} */
+
+svg {
+    width: 28px;
+    height: 28px;
+}
+
+img {
+    border-radius: 8px;
+}
